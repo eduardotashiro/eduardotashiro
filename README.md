@@ -22,7 +22,8 @@
     title="Nodejs"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+  />
     
 <img 
     align="left" 
@@ -56,13 +57,13 @@
 [<img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/eduardo-tashiro-192096362/)
 
   
-<p>
+
  <img 
   align="left"
   alt="GitHub Stats"
   height="200"
   width="400"
-  src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&theme=tokyonight&locale=pt-br"
 />
 
 <img 
@@ -74,7 +75,6 @@
 />
 
 
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
 
