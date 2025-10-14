@@ -5,7 +5,7 @@
 
 
   
-### 🤖 Language and tools:
+### Language and tools:
 
 <img 
     align="left" 
@@ -24,24 +24,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
   />
-    
-<img 
-    align="left" 
-    alt="Express" 
-    title="Express"
-    width="30px" 
-    style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Mongodb" 
-    title="Mongodb"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-/>
           
 <img 
     align="left" 
@@ -52,7 +34,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 /><br>   
           
-### 👇 Connect with me:
+### Connect with me:
 
 [<img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/eduardo-tashiro-192096362/)
 
