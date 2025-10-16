@@ -62,7 +62,7 @@
   alt="GitHub Stats"
   height="168"
   width="400"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotashiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count="
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotashiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 
 
