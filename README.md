@@ -18,17 +18,18 @@ $ --metadata
         -sd/s``/ios+oyhdychos:. +yh/`
         `/s0d/s``/ios+oyhdychos:. +yh/`
           '/::i-:i/-    '-ymMNMNsoosds/so
-            -*-*-*-      /::+-:::/:-:-://
-</pre>
+            -*-*-*-      /::+-:::/:-:-://</pre>
     </td>
-    <td>
-      <a href="https://github.com/eduardotashiro">
-        <img height="148px" width="400px" src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&theme=tokyonight"/>
+    <td height="50%">
+      <pre>
+        <a href="https://github.com/eduardotashiro">
+        <img height="195em" width="400px" src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&theme=tokyonight"/>
       </a>
-      <br>
       <a href="https://github.com/eduardotashiro">
         <img height="195em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotashiro&layout=compact&theme=tokyonight"/>
-      </a>
+      </a>   
     </td>
+      </pre>
   </tr>
 </table>
+ 
