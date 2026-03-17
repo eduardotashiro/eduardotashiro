@@ -23,7 +23,7 @@
     </td>
     <td>
       <a href="https://github.com/eduardotashiro">
-        <img height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&theme=tokyonight"/>
+        <img height="148px" width="400px" src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&theme=tokyonight"/>
       </a>
       <br>
       <a href="https://github.com/eduardotashiro">
