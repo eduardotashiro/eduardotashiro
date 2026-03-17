@@ -1,24 +1,24 @@
 <table>
   <tr>
-    <td width="50%">
-    <pre style="text-decoration": none;">
-<p>$ -- metadata</p>
-<a href="https://en.wikipedia.org/wiki/Ken_Thompson#Career_and_research">         '--''.-shaaa/:.'.
-      .:'-`ohMMMMMMM/hsha/`.
-  `//yh/dysdasdaKsyydMMMdos/.
- -'::::::::::::+\:+\+:::::::`/o/.
-'s'-+o/:;/;:::\\\/+`+-:[`````+.--`
-'s'.-o.::\:\\/+iigi/cyif*zed@:isy+Y:
-'y'.-o.::\:\/+iigi/cyif*zed@4:isy+Y:
-','.-o.::\\/+iigi/cyif*zed@4:isyY+:
-  '.-o.::\/+iigi/cyif*zed@4:isy+-
-  '.-o.::\:\/+iigi/cyif*ed@4:i-
-    `/ysMMMMMMMMs+hohydmddddsyy/-'
-    -sd/s``/ios+oyhdychos:. +yh/`
-    `/s0d/s``/ios+oyhdychos:. +yh/`
-     '/::i-:i/-    '-ymMNMNsoosds/so
-     -*-*-*-       /::+-:::/:-:-://
-                   /::+-:::/:-:-://
+    <td width="25%">
+    <pre style="text-decoration": none;>
+$ --metadata
+<a href="https://en.wikipedia.org/wiki/Ken_Thompson#Career_and_research" style="text-decoration": none;>           '--''.-shaaa/:.'.
+        .:'-`ohMMMMMMM/hsha/`.
+      `//yh/dysdasdaKsyydMMMdos/.
+   '-'::::::::::::+\:+\+:::::::`/o/.
+   's'-+o/:;/;:::\\\/+`+-:[`````+.--`
+   's'.-o.::\:\\\/+iigi/cyif*z@4:iy+Y:
+   's'.-o.::\:\\/+iigi/cyif*zed@:isy+Y:
+   'y'.-o.::\:\/+iigi/cyif*zed@4:isy+Y:
+   ','.-o.::\\/+iigi/cyif*zed@4:isyY+:
+   ','.-o.::\/+iigi/cyif*zed@4:isy+-
+     '.-o.::\:\/+iigi/cyif*ed@4:i-
+      `/ysMMMMMMMMs+hohydmddddsyy/-'
+        -sd/s``/ios+oyhdychos:. +yh/`
+        `/s0d/s``/ios+oyhdychos:. +yh/`
+          '/::i-:i/-    '-ymMNMNsoosds/so
+            -*-*-*-      /::+-:::/:-:-://
 </pre>
     </td>
     <td>
