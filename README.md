@@ -3,33 +3,32 @@
     <td width="25%">
     <pre style="text-decoration": none;>
 $ --metadata
-<a href="https://en.wikipedia.org/wiki/Ken_Thompson#Career_and_research" style="text-decoration": none;>           '--''.-shaaa/:.'.
-        .:'-`ohMMMMMMM/hsha/`.
-      `//yh/dysdasdaKsyydMMMdos/.
-   '-'::::::::::::+\:+\+:::::::`/o/.
-   's'-+o/:;/;:::\\\/+`+-:[`````+.--`
-   's'.-o.::\:\\\/+iigi/cyif*z@4:iy+Y:
-   's'.-o.::\:\\/+iigi/cyif*zed@:isy+Y:
-   'y'.-o.::\:\/+iigi/cyif*zed@4:isy+Y:
-   ','.-o.::\\/+iigi/cyif*zed@4:isyY+:
-   ','.-o.::\/+iigi/cyif*zed@4:isy+-
-     '.-o.::\:\/+iigi/cyif*ed@4:i-
-      `/ysMMMMMMMMs+hohydmddddsyy/-'
-        -sd/s``/ios+oyhdychos:. +yh/`
-        `/s0d/s``/ios+oyhdychos:. +yh/`
-          '/::i-:i/-    '-ymMNMNsoosds/so
-            -*-*-*-      /::+-:::/:-:-://</pre>
+<a href="https://en.wikipedia.org/wiki/Ken_Thompson#Career_and_research" style="text-decoration": none;>        '..''.-hdhyo/:.'.
+     .-:--ohmNNMMMMMMNmy/-
+   '/yh//dyssyydmDDMMYYYYdos/.
+'.':::::::\;;\+\++:::::''/o/:?.
+'s'-.+o/::\\\/+''+';'''/++.-.-'
+'s'..o.:::\://++o+:/oy:.//+sy+:
+;y -.//;;\\/;/;\+oymmNM:ssoshs-'
+-. '-::/+:/+:+o+/s-hsdds;NMmd/: 
+:..-::///ahdh:'.-o.:+dMMh+../+-
+  :sy/:smMmyhmd./:-/gohmhd::+- 
+  '/ysMMMs+hohyhdmdddsdyhy/-
+    ysdmNomms:h+++/o+o/+dys+'
+    -ysy-/- ./.-:::-+y-asyoso.
+    '/s  -/+os+oyhdyohds:.-+yh/'
+     '.-;/-,    '-ymMMNmssso:y/so
+                  /::+-:::/:--;;/</pre>
     </td>
-    <td height="50%">
-      <pre>
-        <a href="https://github.com/eduardotashiro">
-        <img height="195em" width="400px" src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&theme=tokyonight"/>
-      </a>
-      <a href="https://github.com/eduardotashiro">
-        <img height="195em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotashiro&layout=compact&theme=tokyonight"/>
-      </a>   
+  </td>
+    <td width="50%">
+      <div style="background-color: #0d1117; padding: 20px; border-radius: 6px; border: 1px solid #30363d">
+        <img src="https://github-readme-stats.vercel.app/api?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9"alt="Stats" width="100%" style="display: block;"/>
+      </div>
+      </br>
+      <div style="background-color: #0d1117; padding: 20px; border-radius: 6px; border: 1px solid #30363d;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotashiro&show_icons=true&bg_color=00000000&text_color=c9d1d9&layout=compact&hide_progress=true&card_width=440&langs_count=6" alt="Stats" width="100%" style="display: block;"/>
+      </div>
     </td>
-      </pre>
   </tr>
 </table>
- 
